@@ -1,4 +1,4 @@
-# React.js for monitoring drone telemetry
+# React.js using MQTT over Websocket
 
 This library is focused in help you to connect, publish and subscribe to a Message Queuing Telemetry Transport (MQTT) in ReactJS with the power of React Hooks.
 
